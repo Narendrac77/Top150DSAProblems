@@ -1,0 +1,156 @@
+Linked List Problems – High Frequency (Interview Checklist)
+1️⃣ Core Linked List Operations (Fundamentals)
+LeetCode #	Problem
+206	Reverse Linked List
+141	Linked List Cycle
+142	Linked List Cycle II
+160	Intersection of Two Linked Lists
+234	Palindrome Linked List
+203	Remove Linked List Elements
+237	Delete Node in a Linked List
+
+🎯 These are basic but almost always expected.
+
+2️⃣ Slow & Fast Pointer / Cycle Techniques
+LeetCode #	Problem
+141	Linked List Cycle
+142	Linked List Cycle II
+287	Find the Duplicate Number (array but slow-fast pattern)
+876	Middle of the Linked List
+
+👉 This pattern is common in system design of linked structures.
+
+3️⃣ Merge & Sort (Linked List Versions)
+LeetCode #	Problem
+21	Merge Two Sorted Lists
+23	Merge k Sorted Lists
+148	Sort List (Linked List merge sort)
+
+💡 23 and 148 are moderately hard and asked often.
+
+4️⃣ Delete / Modify Nodes (Pointer Manipulation)
+LeetCode #	Problem
+203	Remove Linked List Elements
+25	Reverse Nodes in k-Group
+92	Reverse Linked List II
+82	Remove Duplicates from Sorted List II
+83	Remove Duplicates from Sorted List
+
+These test pointer control and edge case handling.
+
+5️⃣ Reversal & Sublist Handling
+LeetCode #	Problem
+206	Reverse Linked List
+92	Reverse Linked List II
+25	Reverse Nodes in k-Group
+143	Reorder List
+6️⃣ Advanced Link Pointer Manipulation
+LeetCode #	Problem
+23	Merge k Sorted Lists
+143	Reorder List
+138	Copy List with Random Pointer
+328	Odd Even Linked List
+725	Split Linked List in Parts
+7️⃣ Linked List + Math or Number Interpretation
+LeetCode #	Problem
+2	Add Two Numbers
+445	Add Two Numbers II
+
+👉 Important frequent variant on arithmetic with linked lists.
+
+8️⃣ Doubly Linked List / LRU Style
+LeetCode #	Problem
+146	LRU Cache (design using DLL + hashmap)
+707	Design Linked List (basic)
+🧠 Frequency Grading
+Tier	LeetCode #
+Must-Know (High)	206, 141, 142, 160, 234, 21, 23, 148
+Medium (Regular)	25, 92, 143, 83, 82, 2, 445
+Bonus (Advanced)	138, 328, 725, 146
+🗓️ One-Day Linked List Schedule
+Morning (3 hrs — Must Know)
+
+206 → Reverse Linked List
+
+141, 142 → Cycle detection + start
+
+160 → Intersection
+
+234 → Palindrome
+
+Midday (3 hrs — Core Manipulation)
+
+21 → Merge Two Lists
+
+23 → Merge k Sorted Lists
+
+148 → Sort List
+
+92 → Reverse Linked List II
+
+Evening (2–3 hrs — Medium to Bonus)
+
+25 → Reverse in k-Group
+
+143 → Reorder List
+
+2 & 445 → Add Two Numbers
+
+138 → Copy List with Random Pointer
+
+🔑 Pattern-Based Walkthrough
+🚶 Pointer Movement
+
+Reverse list
+
+Delete nodes
+
+Insert nodes
+
+Reorder nodes
+
+🐢 Slow-Fast
+
+Cycle detection
+
+Middle node
+
+Intersection
+
+🔀 Divide & Conquer
+
+Merge k lists
+
+Sort list
+
+🔁 Math + List
+
+Add two numbers
+
+Carry propagation
+
+📌 Interview Talking Points
+
+For Cycle II, explain Floyd’s algorithm and why the pointers meet.
+
+For Merge k sorted lists, discuss min heap vs divide & conquer.
+
+For Sort List, explain merge sort on linked list (no random access).
+
+For Palindrome, explain reversing second half.
+
+💡 Trivia That Helps Interviews
+Topic	Common Follow-Up
+Reversal	In-place vs recursive
+Cycle	How to find cycle entry point
+Merge k	Time complexity tradeoffs
+Palindrome	O(1) space vs stack
+✅ Final Tip
+
+Practice with:
+
+Dry runs on tricky edge cases
+
+Null lists, single node, even/odd length
+
+Explain space/time trade-offs

@@ -1,0 +1,119 @@
+1️⃣ Core Stack Fundamentals (Warm-up)
+LeetCode #	Problem
+20	Valid Parentheses
+155	Min Stack
+225	Implement Stack using Queues
+232	Implement Queue using Stacks
+
+👉 If you miss these → stack basics are weak
+
+2️⃣ Monotonic Stack (🔥 MOST IMPORTANT)
+
+This section alone can clear 70% of stack interviews
+
+LeetCode #	Problem
+496	Next Greater Element I
+503	Next Greater Element II
+739	Daily Temperatures
+901	Online Stock Span
+84	Largest Rectangle in Histogram
+42	Trapping Rain Water
+907	Sum of Subarray Minimums (advanced)
+402	Remove K Digits
+
+👉 If you can solve 84 + 42 confidently, you are strong
+
+3️⃣ Expression Evaluation / Parsing
+LeetCode #	Problem
+150	Evaluate Reverse Polish Notation
+224	Basic Calculator
+227	Basic Calculator II
+394	Decode String
+71	Simplify Path
+1047	Remove All Adjacent Duplicates in String
+4️⃣ Stack + Greedy / String
+LeetCode #	Problem
+316	Remove Duplicate Letters
+1544	Make The String Great
+844	Backspace String Compare
+1249	Minimum Remove to Make Valid Parentheses
+735	Asteroid Collision
+5️⃣ Stack + Trees / Recursion Elimination
+LeetCode #	Problem
+341	Flatten Nested List Iterator
+94	Binary Tree Inorder Traversal
+144	Binary Tree Preorder Traversal
+145	Binary Tree Postorder Traversal
+6️⃣ Design / Advanced Stack Problems (Bonus)
+LeetCode #	Problem
+1472	Design Browser History
+1381	Design a Stack With Increment Operation
+716	Max Stack
+1172	Dinner Plate Stacks
+🎯 Top 12 MUST-DO (Non-Negotiable)
+
+If you do only these, you’re interview-ready:
+
+20 – Valid Parentheses
+
+155 – Min Stack
+
+496 – Next Greater Element
+
+739 – Daily Temperatures
+
+901 – Stock Span
+
+84 – Largest Rectangle in Histogram
+
+42 – Trapping Rain Water
+
+394 – Decode String
+
+150 – Evaluate RPN
+
+316 – Remove Duplicate Letters
+
+735 – Asteroid Collision
+
+71 – Simplify Path
+
+🗓️ One-Day Stack Plan (Exact Problems)
+⏰ Morning (3 hrs)
+
+20 → 155 → 496 → 739
+
+⏰ Midday (3 hrs)
+
+901 → 84 → 42
+
+⏰ Evening (2–3 hrs)
+
+394 → 316 → 735 → 150
+
+🧠 Pattern Memory Trick
+Pattern	LeetCode
+Parentheses	20, 1249
+Min / Max tracking	155, 716
+Monotonic stack	496, 739, 84, 42
+Expression parsing	150, 224, 227
+Greedy + stack	316, 402
+🎤 Interview Tip (Senior-Level)
+
+When asked any stack problem, first say:
+
+“This looks like a monotonic stack / parsing / greedy + stack problem.”
+
+That single sentence shows pattern recognition, not memorization.
+
+If you want next:
+
+✅ Exact problems for Queue
+
+✅ Exact problems for Heap
+
+✅ Exact problems for Sliding Window
+
+✅ Printable MAANG checklist
+
+Just tell me 👍
