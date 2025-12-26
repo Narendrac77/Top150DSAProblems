@@ -1,0 +1,149 @@
+Two Pointers (🔥 Extremely Frequent)
+
+Used for searching, shrinking windows, reversing, partitioning
+
+LC #	Problem
+1	Two Sum
+26	Remove Duplicates from Sorted Array
+27	Remove Element
+283	Move Zeroes
+167	Two Sum II (Sorted Array)
+125	Valid Palindrome
+344	Reverse String
+977	Squares of a Sorted Array
+11	Container With Most Water
+15	3Sum
+
+🎯 Must-master today
+
+📊 2️⃣ Prefix Sum / Running Sum
+
+Used for subarray sum problems, optimizations
+
+LC #	Problem
+1480	Running Sum of 1D Array
+724	Find Pivot Index
+303	Range Sum Query – Immutable
+560	Subarray Sum Equals K
+525	Contiguous Array
+974	Subarray Sums Divisible by K
+🔚 End of Day-1 Goal
+
+✔ You should instantly recognize two-pointer vs prefix-sum problems
+
+🗓️ DAY 2 – Sliding Window + Binary Search
+🪟 3️⃣ Sliding Window (🔥🔥 Super Important)
+
+One of the top interview patterns
+
+Fixed Window
+LC #	Problem
+643	Maximum Average Subarray I
+567	Permutation in String
+438	Find All Anagrams in a String
+Variable Window
+LC #	Problem
+209	Minimum Size Subarray Sum
+3	Longest Substring Without Repeating Characters
+424	Longest Repeating Character Replacement
+76	Minimum Window Substring
+
+🎯 If you can do 76 confidently → you’re strong
+
+🔍 4️⃣ Binary Search on Array
+
+Tests problem-solving maturity
+
+LC #	Problem
+704	Binary Search
+35	Search Insert Position
+34	Find First and Last Position
+153	Find Minimum in Rotated Sorted Array
+33	Search in Rotated Sorted Array
+162	Find Peak Element
+875	Koko Eating Bananas
+🔚 End of Day-2 Goal
+
+✔ Instantly identify fixed vs variable window
+✔ Confident with binary search boundaries
+
+🗓️ DAY 3 – Advanced & High-Value Patterns
+🧮 5️⃣ Kadane / Subarray Optimization
+
+Extremely common in system & algorithm rounds
+
+LC #	Problem
+53	Maximum Subarray
+918	Maximum Sum Circular Subarray
+152	Maximum Product Subarray
+📈 6️⃣ Monotonic Stack on Arrays
+
+Already touched via stacks, but array-based
+
+LC #	Problem
+739	Daily Temperatures
+496	Next Greater Element I
+503	Next Greater Element II
+84	Largest Rectangle in Histogram
+42	Trapping Rain Water
+🧠 7️⃣ Greedy + Array
+LC #	Problem
+121	Best Time to Buy and Sell Stock
+122	Best Time to Buy and Sell Stock II
+134	Gas Station
+55	Jump Game
+45	Jump Game II
+🔚 End of Day-3 Goal
+
+✔ You can convert brute force → optimal
+✔ You recognize Kadane / monotonic patterns immediately
+
+🎯 TOP 15 NON-NEGOTIABLE ARRAY PROBLEMS
+
+If time is tight, do ONLY THESE:
+
+1 – Two Sum
+
+26 – Remove Duplicates
+
+283 – Move Zeroes
+
+11 – Container With Most Water
+
+15 – 3Sum
+
+560 – Subarray Sum Equals K
+
+209 – Min Size Subarray Sum
+
+3 – Longest Substring Without Repeating
+
+76 – Minimum Window Substring
+
+33 – Search in Rotated Array
+
+53 – Maximum Subarray
+
+121 – Best Time to Buy and Sell Stock
+
+739 – Daily Temperatures
+
+42 – Trapping Rain Water
+
+84 – Largest Rectangle Histogram
+
+🧠 Pattern Recognition Cheat Sheet
+Pattern	Instantly Think
+Pair / triplet	Two pointers
+Continuous subarray	Sliding window / Prefix sum
+Max / Min subarray	Kadane
+Sorted array search	Binary search
+Next greater / water	Monotonic stack
+Profit / jump	Greedy
+🎤 Interview Advice (Very Important)
+
+When interviewer asks an array question, say this early:
+
+“This looks like a two-pointer / sliding-window / prefix-sum problem.”
+
+That sentence alone shows pattern mastery, not memorization.
