@@ -1,0 +1,193 @@
+4-DAY DYNAMIC PROGRAMMING MASTER PLAN
+
+(Pattern-wise + Interview-focused)
+
+🗓️ DAY 1 — DP Foundations (1D DP)
+
+🎯 Goal:
+Understand what DP is, how to convert recursion → memo → tabulation, and master 1D DP.
+
+🔹 Pattern 1: Fibonacci / Linear DP
+LC #	Problem	Why Important
+70	Climbing Stairs	DP basics
+746	Min Cost Climbing Stairs	Optimization
+509	Fibonacci Number	Template
+1137	N-th Tribonacci	Transition thinking
+
+👉 Focus on:
+
+State definition
+
+Base cases
+
+Space optimization
+
+🔹 Pattern 2: House Robber Family
+LC #	Problem
+198	House Robber
+213	House Robber II
+337	House Robber III (tree DP, optional)
+
+👉 Teaches:
+
+Pick / Not Pick
+
+Dependency on previous states
+
+🔹 Pattern 3: Kadane-Style DP
+LC #	Problem
+53	Maximum Subarray
+152	Maximum Product Subarray (already done 👍)
+
+✅ End of Day-1 Mastery Check
+
+You can write DP recurrence without looking
+
+You know when DP reduces to greedy
+
+You can optimize space to O(1)
+
+🗓️ DAY 2 — Subsequence & Knapsack DP (VERY IMPORTANT)
+
+🎯 Goal:
+Master pick / not pick DP — the most common interview DP pattern.
+
+🔹 Pattern 4: Subsequence / 0-1 Knapsack
+LC #	Problem	Notes
+416	Partition Equal Subset Sum	Core
+494	Target Sum	Transformation
+1049	Last Stone Weight II	Same pattern
+322	Coin Change	Unbounded knapsack
+518	Coin Change II	Count ways
+🔹 Pattern 5: Subset Sum Variants
+LC #	Problem
+139	Word Break
+377	Combination Sum IV
+
+👉 Interviewers LOVE asking:
+
+“Why is this DP, not greedy?”
+
+✅ End of Day-2 Mastery Check
+
+You can derive recurrence on paper
+
+You know difference between count / min / boolean DP
+
+You can switch between memo & tabulation
+
+🗓️ DAY 3 — Strings DP (HIGH-FREQUENCY)
+
+🎯 Goal:
+Handle string comparison DP, which filters many candidates.
+
+🔹 Pattern 6: LCS Family (EXTREMELY IMPORTANT)
+LC #	Problem
+1143	Longest Common Subsequence
+583	Delete Operation for Two Strings
+712	Minimum ASCII Delete Sum
+1092	Shortest Common Supersequence (optional)
+
+👉 Focus on:
+
+Index shifting (i-1, j-1)
+
+Matching vs skipping
+
+🔹 Pattern 7: Palindromic DP
+LC #	Problem
+647	Palindromic Substrings
+516	Longest Palindromic Subsequence
+131	Palindrome Partitioning
+🔹 Pattern 8: Edit Distance
+LC #	Problem
+72	Edit Distance
+
+🔥 This alone is a favorite DP interview question
+
+✅ End of Day-3 Mastery Check
+
+You can draw DP tables
+
+You can explain transitions clearly
+
+You don’t panic seeing 2D DP
+
+🗓️ DAY 4 — Advanced & Interview Killers
+
+🎯 Goal:
+Be comfortable with “hard-looking but pattern-based” DP problems.
+
+🔹 Pattern 9: Grid / Matrix DP
+LC #	Problem
+62	Unique Paths
+63	Unique Paths II
+64	Minimum Path Sum
+931	Minimum Falling Path Sum
+🔹 Pattern 10: LIS & Variants
+LC #	Problem
+300	Longest Increasing Subsequence
+368	Largest Divisible Subset
+673	Number of LIS
+🔹 Pattern 11: Partition DP (Optional but Impressive)
+LC #	Problem
+343	Integer Break
+279	Perfect Squares
+
+✅ End of Day-4 Mastery Check
+
+You can identify DP pattern quickly
+
+You know when DP is overkill
+
+You can explain time & space clearly
+
+🔥 TOP 15 NON-NEGOTIABLE DP PROBLEMS
+
+(If time is tight, do ONLY these)
+
+70 – Climbing Stairs
+
+198 – House Robber
+
+53 – Maximum Subarray
+
+322 – Coin Change
+
+416 – Partition Equal Subset
+
+494 – Target Sum
+
+139 – Word Break
+
+1143 – LCS
+
+72 – Edit Distance
+
+647 – Palindromic Substrings
+
+516 – Longest Palindromic Subsequence
+
+62 – Unique Paths
+
+64 – Minimum Path Sum
+
+300 – LIS
+
+152 – Maximum Product Subarray
+
+🧠 DP Interview Mindset (VERY IMPORTANT)
+
+When interviewer asks DP:
+
+Say this early:
+
+“Let me define the state and recurrence first.”
+
+That sentence alone signals DP maturity.
+
+🧭 Final Honest Verdict
+
+✔ 4 days is enough
+✔ This list covers ~90% of DP asked in interviews
+✔ After this, DP will no longer feel scary
