@@ -1,0 +1,190 @@
+REES — 2-DAY MASTER SHEET (Interview-Focused)
+🗓️ DAY 1 — Tree Traversals & Core Patterns (FOUNDATION)
+
+🎯 Goal:
+Become fluent with recursion, DFS, BFS, and basic tree reasoning.
+
+🔹 Pattern 1: Tree Traversals (MUST KNOW)
+LC #	Problem	Pattern
+144	Binary Tree Preorder Traversal	DFS
+94	Binary Tree Inorder Traversal	DFS
+145	Binary Tree Postorder Traversal	DFS
+102	Binary Tree Level Order Traversal	BFS
+107	Level Order Traversal II	BFS
+199	Binary Tree Right Side View	BFS
+
+👉 Focus on:
+
+Recursion base cases
+
+Stack vs recursion
+
+Queue usage in BFS
+
+🔹 Pattern 2: Height / Depth / Balanced Trees
+LC #	Problem
+104	Maximum Depth of Binary Tree
+111	Minimum Depth of Binary Tree
+110	Balanced Binary Tree
+
+🎯 These teach:
+
+Bottom-up recursion
+
+Returning height + validity together
+
+🔹 Pattern 3: Tree Comparison / Symmetry
+LC #	Problem
+100	Same Tree
+101	Symmetric Tree
+572	Subtree of Another Tree
+
+👉 Interviewers use these to test:
+
+Recursive correctness
+
+Structure + value comparison
+
+🔹 Pattern 4: Path-Based Problems (ENTRY LEVEL)
+LC #	Problem
+112	Path Sum
+113	Path Sum II
+✅ End of Day-1 Mastery Check
+
+You should be able to:
+
+Write DFS recursion without hesitation
+
+Explain preorder / inorder / postorder
+
+Handle null nodes confidently
+
+Decide BFS vs DFS instinctively
+
+🗓️ DAY 2 — Advanced Tree Patterns (INTERVIEW KILLERS)
+
+🎯 Goal:
+Handle real interview questions that separate average vs strong candidates.
+
+🔥 Pattern 5: Diameter / Maximum Path (VERY IMPORTANT)
+LC #	Problem
+543	Diameter of Binary Tree
+124	Binary Tree Maximum Path Sum
+
+👉 Core idea:
+
+Postorder traversal
+
+Return height / contribution upward
+
+Maintain global answer
+
+🔹 Pattern 6: Lowest Common Ancestor (EXTREMELY FREQUENT)
+LC #	Problem
+236	LCA of Binary Tree
+235	LCA of BST
+
+🎯 Interview favorite:
+
+“Explain why this works.”
+
+🔹 Pattern 7: Tree Construction
+LC #	Problem
+105	Construct Tree from Preorder + Inorder
+106	Construct Tree from Inorder + Postorder
+
+👉 Tests:
+
+Index mapping
+
+Recursive slicing logic
+
+🔹 Pattern 8: BST Properties
+LC #	Problem
+98	Validate Binary Search Tree
+700	Search in a BST
+701	Insert into a BST
+🔹 Pattern 9: Views & Vertical Traversal
+LC #	Problem
+103	Zigzag Level Order
+987	Vertical Order Traversal (advanced)
+🔹 Pattern 10: Tree DP (LIGHT INTRO)
+LC #	Problem
+337	House Robber III
+968	Binary Tree Cameras (optional, hard)
+✅ End of Day-2 Mastery Check
+
+You should be able to:
+
+Explain why postorder is used
+
+Write LCA logic cleanly
+
+Solve diameter/path problems confidently
+
+Combine multiple values in recursion
+
+🔥 TOP 15 NON-NEGOTIABLE TREE PROBLEMS
+
+(If time is tight, do ONLY these)
+
+102 – Level Order Traversal
+
+104 – Maximum Depth
+
+110 – Balanced Binary Tree
+
+100 – Same Tree
+
+101 – Symmetric Tree
+
+112 – Path Sum
+
+543 – Diameter of Binary Tree
+
+124 – Max Path Sum
+
+236 – LCA of Binary Tree
+
+98 – Validate BST
+
+105 – Build Tree
+
+235 – LCA of BST
+
+199 – Right Side View
+
+337 – House Robber III
+
+103 – Zigzag Level Order
+
+🧠 Tree Problem Recognition Cheat Sheet
+Question Mentions	Think
+Height / depth	DFS
+Level-wise	BFS
+Path / diameter	Postorder
+Ancestor	LCA
+BST	Bounds / inorder
+“Maximum”	Global variable
+Two children results	Postorder
+🎯 Interview One-Liners (VERY IMPORTANT)
+
+Traversal:
+
+“I’ll solve this using DFS recursion.”
+
+Diameter / Max Path:
+
+“I use postorder to compute height and update a global result.”
+
+LCA:
+
+“If the current node matches either target, return it upward.”
+
+These lines signal tree mastery.
+
+🧭 Honest Verdict
+
+✔ 2 days is perfect
+✔ This covers 90% of tree questions
+✔ You’ll feel very confident after this
