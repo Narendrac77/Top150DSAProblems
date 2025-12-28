@@ -1,0 +1,147 @@
+PATTERN 1: Linear DP / Fibonacci Pattern
+
+“DP where the answer at i depends on a small fixed window behind it.”
+
+🧠 Core Idea
+
+State:
+
+dp[i] = answer for size i
+
+
+Transition (generic):
+
+dp[i] = dp[i-1] + dp[i-2]   (or min/max variation)
+
+🔑 Problems to Do TODAY
+
+Do them in this exact order:
+
+1️⃣ 509 – Fibonacci Number
+👉 Purpose: understand state & transition
+👉 Do:
+
+Recursion → Memo → Tabulation → Space optimized
+
+2️⃣ 70 – Climbing Stairs
+👉 Same pattern, real problem
+👉 Interview classic
+
+3️⃣ 746 – Min Cost Climbing Stairs
+👉 Introduces min instead of sum
+
+🧠 What You MUST Understand Before Moving On
+
+Why recursion is slow
+
+How memo avoids recomputation
+
+How tabulation flips recursion
+
+How space optimization works
+
+If you can explain this sentence, you’re good:
+
+“I only need the last two states, so I don’t need the full dp array.”
+
+✅ PATTERN 2: House Robber Pattern (Decision DP)
+
+“At every index, I must choose or skip.”
+
+This is one of the most important DP patterns ever.
+
+🧠 Core Idea
+
+State:
+
+dp[i] = max money till index i
+
+
+Transition:
+
+dp[i] = max(
+    dp[i-1],          // skip current
+    nums[i] + dp[i-2] // take current
+)
+
+🔑 Problems to Do TODAY
+
+1️⃣ 198 – House Robber
+👉 Absolute must-know
+👉 Solve:
+
+dp array
+
+space optimized version
+
+2️⃣ 213 – House Robber II
+👉 Circular constraint
+👉 Trick: solve twice
+
+[0..n-2] and [1..n-1]
+
+
+(Do not do HR-III today — that’s Tree DP, different mental mode.)
+
+🧠 What You MUST Understand
+
+Why greedy fails
+
+Why local max ≠ global max
+
+Why i-2 matters
+
+Why circular breaks normal DP
+
+If you can say:
+
+“I transform the circular problem into two linear DP problems.”
+
+You’re interview-ready.
+
+⏱️ Time Plan (Very Realistic)
+
+Pattern 1 → 1.5 hrs
+
+Break → 10–15 min
+
+Pattern 2 → 1.5 hrs
+
+Final recap → 10 min
+
+Total: ~3.5 hours (perfect for a deep DP day)
+
+🚫 What NOT to Do Today
+
+❌ Don’t jump to Knapsack
+❌ Don’t do LCS today
+❌ Don’t open too many problems
+❌ Don’t memorize formulas
+
+Today is about intuition, not breadth.
+
+🧠 End-of-Day Self-Check (IMPORTANT)
+
+Before you stop today, answer these out loud:
+
+What is my state definition?
+
+What are my choices?
+
+What is my transition?
+
+What is my base case?
+
+Can I optimize space?
+
+If you can answer these → today is a win.
+
+✅ Summary (Lock This In)
+
+Today you focus on:
+
+✔ Linear DP (Fibonacci)
+
+✔ Decision DP (House Robber)
+
+These two alone cover 30–40% of DP interview questions.
