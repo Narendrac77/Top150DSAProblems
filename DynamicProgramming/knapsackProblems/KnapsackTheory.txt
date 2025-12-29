@@ -1,0 +1,195 @@
+Knapsack DP — Theory & Intuition (Foundation)
+What is a Knapsack Problem?
+
+At its core:
+
+You have items, each with some value / weight / cost,
+and a constraint (capacity / sum / target).
+
+You must choose items optimally without violating the constraint.
+
+Everything else is a variation.
+
+The Core Decision (VERY IMPORTANT)
+
+For every item, you only have two choices:
+
+👉 Choice 1: Take the item
+👉 Choice 2: Do NOT take the item
+
+That’s it.
+
+Knapsack DP is about modeling this decision efficiently.
+
+Two Big Knapsack Families
+1️⃣ 0/1 Knapsack
+
+Each item can be used at most once
+
+Binary decision: take or skip
+
+Examples:
+
+Partition Equal Subset Sum
+
+Target Sum
+
+Last Stone Weight II
+
+Subset Sum
+
+2️⃣ Unbounded Knapsack
+
+Each item can be used multiple times
+
+Examples:
+
+Coin Change
+
+Coin Change II
+
+Integer Break
+
+Today we focus on 0/1 Knapsack only.
+
+The Mental Model (Key Insight)
+
+Knapsack DP is not about items —
+It is about building answers step-by-step using prefixes.
+
+Think like this:
+
+“Using the first i items, can I achieve sum s?”
+
+OR
+
+“Using the first i items, what is the best value I can get with capacity w?”
+
+This leads to the DP state.
+
+DP State Definition (The Backbone)
+Standard 0/1 Knapsack DP State
+dp[i][s] = can I form sum 's' using first 'i' items?
+
+
+or
+
+dp[i][w] = max value using first 'i' items with capacity 'w'
+
+
+Key points:
+
+i → items considered
+
+s / w → constraint (sum or capacity)
+
+DP Transition (Most Important Part)
+
+For item i with weight/value x:
+
+If you don’t take item i:
+dp[i][s] = dp[i-1][s]
+
+If you take item i:
+dp[i][s] = dp[i-1][s - x]
+
+Combine:
+dp[i][s] = dp[i-1][s] OR dp[i-1][s - x]
+
+
+This is the core knapsack equation.
+
+Base Cases (Often Missed)
+Using 0 items:
+dp[0][0] = true   // sum 0 is always possible
+dp[0][>0] = false
+
+
+This base case is critical.
+
+Why Knapsack is Hard Initially
+
+Because:
+
+You’re not optimizing directly
+
+You’re exploring all valid combinations
+
+But DP prunes repeated work
+
+Knapsack problems often hide the knapsack nature.
+
+Problem Transformation (Crucial Interview Skill)
+
+Many problems don’t mention knapsack explicitly.
+
+Examples:
+
+Partition Equal Subset Sum
+
+Target Sum
+
+Last Stone Weight II
+
+They all secretly ask:
+
+“Can I divide / choose numbers such that a certain sum condition holds?”
+
+Which is subset sum → knapsack.
+
+Space Optimization (Advanced but Important)
+
+Since:
+
+dp[i] depends only on dp[i-1]
+
+
+We can reduce:
+
+dp[2D] → dp[1D]
+
+
+But ⚠️ IMPORTANT RULE for 0/1 Knapsack:
+
+Iterate backwards over sum
+for s from target → num:
+    dp[s] |= dp[s - num]
+
+
+Why backward?
+
+To prevent using the same item multiple times
+
+Forward iteration would turn it into unbounded knapsack (bug!).
+
+Knapsack vs Kadane / Fibonacci (Mental Separation)
+Pattern	Decision
+Fibonacci	Choose previous states
+Kadane	Extend or restart
+Knapsack	Take or skip
+
+Knapsack is about combinatorial decisions, not greedy growth.
+
+Interview Red Flags (Avoid These)
+
+❌ Jumping to code without defining state
+❌ Wrong iteration order
+❌ Forgetting base cases
+❌ Confusing 0/1 with unbounded
+❌ Not explaining transformation
+
+🧠 Checkpoint (Very Important)
+
+Before touching any problem, you should now be able to answer:
+
+What are the choices per item?
+
+What does my DP state mean?
+
+What is my constraint dimension?
+
+Is this 0/1 or unbounded?
+
+Can I optimize space safely?
+
+If yes → you’re ready.

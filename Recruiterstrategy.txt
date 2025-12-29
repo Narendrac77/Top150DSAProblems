@@ -1,0 +1,190 @@
+Recruiter Messaging Strategy (Senior Backend – 7.7 YOE)
+1️⃣ Core Principle (VERY IMPORTANT)
+
+Recruiters respond when they immediately see:
+
+✔ Who you are
+
+✔ Your seniority
+
+✔ Your tech fit
+
+✔ Why you’re relevant
+
+✔ Low effort to respond
+
+They do not respond to:
+
+Long stories
+
+Generic “please consider my profile”
+
+Resume dumps
+
+Desperation signals
+
+2️⃣ Golden Rules (Memorize These)
+
+✅ Message should be 3–5 lines max
+✅ Mention current company + role
+✅ Mention primary tech stack
+✅ Mention what roles you’re targeting
+✅ Ask a soft question, not a demand
+
+3️⃣ Recruiter Message Templates (Use These)
+🟢 Template 1: Cold Outreach (BEST default)
+
+Use this for most recruiters.
+
+Hi <Name>,
+
+I’m a Senior Backend Engineer with 7.7 years of experience, currently working at Oracle on Java-based microservices and distributed systems.
+
+I’m exploring Senior Backend / Software Engineer roles focused on scalable backend platforms. Happy to share my resume if there’s a relevant opening.
+
+Thanks!
+Narendra
+
+
+✔ Short
+✔ Professional
+✔ Senior signal
+✔ Easy to respond
+
+🟢 Template 2: Job-Specific Outreach
+
+Use when messaging about a specific job post.
+
+Hi <Name>,
+
+I came across the Senior Backend Engineer role you’re hiring for. I’m currently a Senior Backend Engineer at Oracle with 7.7 years of experience in Java, Spring Boot, microservices, and Kafka.
+
+The role looks aligned with my background. Happy to share my resume if you think it’s a fit.
+
+Thanks!
+Narendra
+
+
+✔ Shows intent
+✔ Shows relevance
+✔ No pressure
+
+🟢 Template 3: Referral-Style (Very Effective)
+
+Use when messaging engineering managers or senior engineers.
+
+Hi <Name>,
+
+I’m a Senior Backend Engineer at Oracle (7.7 YOE) working on Java microservices and distributed systems. I’m exploring backend roles and noticed your team works on similar problems.
+
+Would you be open to a quick chat or pointing me to the right hiring contact if there’s a fit?
+
+Thanks,
+Narendra
+
+
+✔ Polite
+✔ Non-pushy
+✔ Often leads to referrals
+
+4️⃣ Who to Message (Very Important)
+
+Each weekday, message 5–10 people, not more.
+
+Priority order:
+
+1️⃣ Recruiters hiring Backend / Java roles
+2️⃣ Internal recruiters at product companies
+3️⃣ Engineering managers / senior engineers
+4️⃣ Talent partners at service companies (later)
+
+How to find them:
+
+Search:
+
+Backend Recruiter Java India
+Senior Software Engineer Recruiter
+
+
+Filter by:
+
+India
+
+Recently active
+
+Hiring posts
+
+5️⃣ Follow-Up Strategy (Most People Fail Here)
+
+If no reply after 5–7 working days, send one follow-up only.
+
+Follow-up Template
+Hi <Name>,
+
+Just following up on my earlier message regarding backend opportunities. Happy to share my resume if helpful.
+
+Thanks,
+Narendra
+
+
+That’s it.
+❌ No second follow-up
+❌ No guilt messaging
+
+6️⃣ Daily Outreach Plan (10–15 Minutes)
+
+Monday–Friday
+
+Message 5–10 recruiters
+
+Track in a simple note or Excel:
+
+Name
+
+Company
+
+Date
+
+Response
+
+Weekly target:
+
+25–40 quality messages
+
+This is enough.
+
+7️⃣ Expected Results (Realistic)
+
+With your updated resume + LinkedIn:
+
+Replies start in 5–10 days
+
+Interview calls in 2–3 weeks
+
+Service companies may respond faster
+
+Product companies take longer but are higher quality
+
+This is normal.
+
+8️⃣ Common Mistakes (Avoid These)
+
+❌ “Please consider my profile”
+❌ Attaching resume in first message
+❌ Writing essays
+❌ Messaging 50 recruiters in one day
+❌ Asking “Any openings?” with no context
+
+🧠 Mindset Shift (Important)
+
+Recruiter outreach is not begging.
+It is professional networking.
+
+Senior engineers do this all the time.
+
+✅ Your Next Actions (Clear)
+
+1️⃣ Start outreach from tomorrow
+2️⃣ Use Template 1 primarily
+3️⃣ Track responses for 2 weeks
+4️⃣ After 7–10 days → buy LinkedIn Premium (optional, for scale)
