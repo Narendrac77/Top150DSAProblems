@@ -1,0 +1,203 @@
+One-Day High-Impact Array Revision Plan
+
+(Most Frequently Asked + Pattern-Based)
+
+🎯 Goal for Today
+
+Refresh patterns, not relearn
+
+Build speed + confidence
+
+Be able to recognize the pattern in 10–15 seconds
+
+🧠 Pattern 1: Two Pointers (VERY HIGH FREQUENCY)
+Why?
+
+Used in:
+
+Google
+
+Amazon
+
+Service companies
+
+Almost every screening round
+
+Problems to Revisit
+
+26 – Remove Duplicates from Sorted Array
+
+27 – Remove Element
+
+283 – Move Zeroes
+
+167 – Two Sum II
+
+125 – Valid Palindrome
+
+11 – Container With Most Water
+
+What to Focus On
+
+Pointer movement logic
+
+In-place modification
+
+When to move left vs right
+
+⏱️ Time: 60–75 mins
+
+🧠 Pattern 2: Sliding Window (CRITICAL)
+Why?
+
+Sliding window = array + hashmap + two pointers
+This appears everywhere.
+
+Problems
+
+643 – Maximum Average Subarray
+
+209 – Minimum Size Subarray Sum
+
+3 – Longest Substring Without Repeating Characters
+
+567 – Permutation in String
+
+438 – Find All Anagrams in a String
+
+76 – Minimum Window Substring (just logic review, not full code)
+
+Focus
+
+Window expand vs shrink
+
+Count-based vs size-based windows
+
+When to update answer
+
+⏱️ Time: 75–90 mins
+
+🧠 Pattern 3: Prefix Sum + HashMap (INTERVIEW FAVORITE)
+Why?
+
+Very common in:
+
+Google
+
+Amazon
+
+Service companies (logic-heavy)
+
+Problems
+
+724 – Find Pivot Index
+
+560 – Subarray Sum Equals K
+
+974 – Subarray Sums Divisible by K
+
+525 – Contiguous Array
+
+Focus
+
+Why prefix sum works
+
+Why hashmap is needed
+
+Handling negative numbers
+
+⏱️ Time: 45–60 mins
+
+🧠 Pattern 4: Kadane / Greedy Array DP (QUICK RECAP)
+
+You already mastered these — just mental review.
+
+Problems
+
+53 – Maximum Subarray
+
+152 – Maximum Product Subarray
+
+121 – Best Time to Buy and Sell Stock
+
+122 – Best Time to Buy and Sell Stock II
+
+55 – Jump Game
+
+45 – Jump Game II
+
+Focus
+
+State definition
+
+Greedy vs DP reasoning
+
+Why reset / why not reset
+
+⏱️ Time: 30–40 mins
+
+🧠 Pattern 5: Binary Search on Arrays (HIGH ROI)
+Problems
+
+704 – Binary Search
+
+35 – Search Insert Position
+
+34 – First & Last Position
+
+153 – Find Min in Rotated Sorted Array
+
+33 – Search in Rotated Sorted Array
+
+875 – Koko Eating Bananas
+
+Focus
+
+Mid calculation
+
+Left/right boundary conditions
+
+Answer vs search space
+
+⏱️ Time: 45–60 mins
+
+🧠 How to Study Today (IMPORTANT)
+
+❌ Don’t rewrite full code for everything
+✅ For each problem:
+
+Identify pattern
+
+Say solution aloud
+
+Write only key logic
+
+Note edge cases
+
+✅ End-of-Day Success Criteria
+
+Today is a big win if:
+
+You can classify array problems by pattern instantly
+
+You feel faster than yesterday
+
+You don’t feel mentally drained
+
+🧠 Reality Check (Motivation)
+
+You are not starting from scratch:
+
+Arrays ✅
+
+Linked Lists ✅
+
+Stacks ✅
+
+DP (Kadane + Knapsack + Unbounded) ✅
+
+Today is polishing, not learning.
+
+
+
+Chathurya@1997

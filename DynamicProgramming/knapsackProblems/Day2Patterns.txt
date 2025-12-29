@@ -1,0 +1,153 @@
+Primary Goal for Today
+
+👉 Lock Knapsack DP foundation + continue job-search momentum
+
+You already:
+
+Closed Kadane DP
+
+Closed Fibonacci / Linear DP
+
+Fixed Resume
+
+Updated LinkedIn
+
+Learned recruiter outreach strategy
+
+So today we move forward, not sideways.
+
+🧠 Part 1: DP — Knapsack Foundation (Core Focus)
+
+⏱️ Time: ~2.5–3 hours (deep focus)
+
+✅ Pattern to Focus: 0/1 Knapsack (Transformation Thinking)
+
+This is a BIG but necessary jump and very high ROI for interviews.
+
+Problems to cover TODAY (only these):
+1️⃣ 416 – Partition Equal Subset Sum
+
+First true knapsack problem
+
+Learn:
+
+State definition
+
+Sum transformation
+
+Boolean DP
+
+Do tabulation first
+
+Optional: space optimization if time permits
+
+2️⃣ 494 – Target Sum
+
+Builds directly on 416
+
+Learn:
+
+How problems transform into knapsack
+
+Why (sum + target) / 2 matters
+
+Do DP explanation + code
+
+⚠️ Do NOT rush.
+If only 416 is fully clear, that’s still a successful day.
+
+🧩 What You Should Be Able to Explain After This
+
+By end of DP session, you should confidently say:
+
+“This is a subset-sum / knapsack problem”
+
+“This is my DP state”
+
+“This is how I derived the transition”
+
+“This is why time/space complexity is X”
+
+That’s interview readiness.
+
+☕ Break (Mandatory)
+
+⏱️ 20–30 mins
+
+Walk
+
+No screens
+
+Let DP settle in your head
+
+💼 Part 2: Job Search Momentum (High ROI, Low Effort)
+
+⏱️ Time: 20–30 minutes
+
+✅ Tasks:
+
+Send 5 recruiter messages using Template 1
+
+Target:
+
+Backend recruiters
+
+Java / Microservices roles
+
+Log names in a simple note
+
+⚠️ Stop at 5–7 messages. Quality > quantity.
+
+🔁 Part 3: Light Review / Confidence Builder
+
+⏱️ Time: ~30–40 mins
+
+Choose one:
+
+Re-read Kadane DP notes
+OR
+
+Re-read House Robber logic
+OR
+
+Skim today’s DP code and write comments explaining transitions
+
+This reinforces memory without burnout.
+
+🧠 Optional (Only If Energy Is High)
+
+⏱️ 30 mins max
+
+Skim Coin Change (322) — no coding required
+
+Just understand:
+
+Why it’s unbounded knapsack
+
+Difference from 0/1 knapsack
+
+If tired → skip guilt-free.
+
+✅ End-of-Day Success Criteria
+
+Today is a WIN if:
+
+✔ 416 is understood deeply
+
+✔ You can explain DP state & transition
+
+✔ 5 recruiter messages sent
+
+Not number of problems. Depth matters.
+
+🔥 Motivation Check (Honest)
+
+You are:
+
+On schedule
+
+On target for Feb interviews
+
+Doing the right things in the right order
+
+No panic. No overwork. Just steady progress.
