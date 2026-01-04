@@ -1,0 +1,183 @@
+Confirmed Daily Schedule (Locked)
+🌅 Morning
+
+1️⃣ DSA – Revision (1.5 to 2 hrs)
+
+Revise already-known patterns
+
+Focus on speed + correctness
+
+No new learning here
+
+2️⃣ Core Java / LLD – 1 hr
+
+Java fundamentals from design perspective
+
+OOP, immutability, concurrency basics
+
+🌆 Evening
+
+3️⃣ HLD – 1 hr
+
+System design fundamentals
+
+Real-world scalable systems
+
+Trade-offs, bottlenecks
+
+🌙 Night
+
+4️⃣ LLD / HLD – 45 mins
+
+Apply concepts
+
+UML / class design / flow diagrams
+
+Mock interview thinking
+
+5️⃣ DSA – New Concept / Pattern (1 hr)
+
+One new pattern only
+
+Implement + understand use-cases
+
+👉 This split is excellent because:
+
+DSA = muscle memory
+
+Java/LLD/HLD = thinking & articulation
+
+📅 Day 1 Plan – Sunday, 5th Jan
+🟢 Morning – DSA (Revision)
+
+Topic: Arrays + Two Pointers (Revision)
+
+Revise:
+
+Two Sum
+
+Container With Most Water
+
+Move Zeros
+
+Remove Duplicates (sorted array)
+
+🎯 Goal:
+
+90% accuracy
+
+Clean edge-case handling
+
+Time/space explanation
+
+🟢 Morning – Core Java / LLD (1 hr)
+
+Topic:
+
+Java OOP from LLD perspective
+
+Abstraction vs Encapsulation (interview framing)
+
+Why composition over inheritance
+
+Interface vs abstract class (when & why)
+
+✔ Deliverable:
+
+Be able to verbally explain
+
+One clean example in your head (Payment / Notification)
+
+🟢 Evening – HLD (1 hr)
+
+Topic:
+
+HLD Fundamentals – How to Think
+
+Functional vs Non-functional requirements
+
+Scalability basics
+
+Latency vs throughput
+
+Vertical vs horizontal scaling
+
+✔ Deliverable:
+
+Explain how to approach any HLD question
+
+No diagrams yet, only thinking framework
+
+🟢 Night – LLD / HLD (45 mins)
+
+Topic:
+
+LLD Thinking Exercise
+
+Identify entities
+
+Identify behaviors
+
+Identify what changes frequently
+
+Example:
+
+Design a simple Notification System (no coding)
+
+Just class names + responsibilities.
+
+🟢 Night – DSA (New Concept – 1 hr)
+
+Topic:
+
+Sliding Window (New Pattern)
+
+Fixed window vs variable window
+
+Problems:
+
+Max sum subarray of size k
+
+Longest substring without repeating chars
+
+🎯 Goal:
+
+Recognize pattern instantly
+
+No memorization, only intuition
+
+🧠 Why This Plan Will Work for You
+
+Because:
+
+You already know Java
+
+You already know DSA
+
+Now you’re training design thinking + articulation
+
+This is exactly what Tier-1 product companies expect at your level.
+
+🔒 Ground Rules (Very Important)
+
+No over-learning on Day 1
+
+Consistency > Intensity
+
+Speak answers out loud (LLD/HLD)
+
+One notebook / doc for:
+
+LLD patterns
+
+HLD frameworks
+
+Common interview answers
+
+Tomorrow night, after Day 1, we’ll:
+
+Review what worked
+
+Adjust pacing if needed
+
+Lock Week 1 roadmap (Java + LLD + HLD)
