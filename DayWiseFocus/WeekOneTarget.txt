@@ -1,0 +1,208 @@
+Exact day-by-day plan (10 days)
+2️⃣ Daily deliverables (what “done” means)
+3️⃣ Progress checkpoints (Day 5 & Day 10)
+4️⃣ Where you’ll stand on the interview readiness scale
+
+This is tailored to your experience (7+ years) and LLD/HLD-heavy product company interviews.
+
+🔒 Fixed Daily Time Split (as agreed)
+
+DSA (Revision – Morning): 1.5–2 hrs
+
+Core Java / LLD (Morning): 1 hr
+
+HLD (Evening): 1 hr
+
+LLD/HLD (Night): 45 mins
+
+DSA (New Concept – Night): 1 hr
+
+⚠️ No changes to time. Only topics evolve.
+
+📅 10-Day Plan (5 Jan – 14 Jan)
+🟢 DAY 1 – Foundations (5 Jan)
+
+DSA Revision: Arrays, Two Pointers
+DSA New: Sliding Window
+Core Java / LLD: OOP principles (Abstraction, Encapsulation, Composition)
+HLD: How to approach any system design
+LLD Night: Identify entities & responsibilities (Notification system)
+
+🎯 Outcome:
+
+OOP explanations are interview-safe
+
+You can explain how you think, not jump to design
+
+🟢 DAY 2
+
+DSA Revision: HashMap patterns
+DSA New: Prefix Sum
+Core Java / LLD: SOLID principles (SRP, OCP deep dive)
+HLD: Load, latency, throughput, availability
+LLD Night: Refactor bad design → SOLID-compliant
+
+🎯 Outcome:
+
+You start spotting design smells
+
+Can say “this violates SRP/OCP”
+
+🟢 DAY 3
+
+DSA Revision: Stack & Queue
+DSA New: Monotonic Stack
+Core Java / LLD: Interface vs Abstract Class
+HLD: CAP theorem + consistency models
+LLD Night: Parking Lot – entity modeling only
+
+🎯 Outcome:
+
+Confident Java design decisions
+
+LLD structure forming naturally
+
+🟢 DAY 4
+
+DSA Revision: Binary Search patterns
+DSA New: Binary Search on Answer
+Core Java / LLD: Immutability & Value Objects
+HLD: Database basics (SQL vs NoSQL, indexing)
+LLD Night: Parking Lot – class responsibilities
+
+🎯 Outcome:
+
+Cleaner Java modeling
+
+Parking Lot half-designed mentally
+
+🟢 DAY 5 – 🔍 CHECKPOINT 1
+
+DSA Revision: Trees (DFS/BFS)
+DSA New: Tree recursion patterns
+Core Java / LLD: Exception handling design
+HLD: API design & REST fundamentals
+LLD Night: Parking Lot – end-to-end walkthrough
+
+🔎 Self-Assessment (Day 5)
+
+You should be able to:
+
+Design Parking Lot without panic
+
+Explain SOLID with examples
+
+Solve medium DSA without hints
+
+📊 Readiness Level:
+
+DSA: 55–60%
+
+Core Java: 70%
+
+LLD: 55%
+
+HLD: 45%
+
+👉 Mid-level → Senior transition has started
+
+🟢 DAY 6
+
+DSA Revision: Linked List
+DSA New: Fast & Slow pointer
+Core Java / LLD: Equals & hashCode (design correctness)
+HLD: Caching (Redis use-cases, eviction)
+LLD Night: Design Cache (LLD)
+
+🎯 Outcome:
+
+Strong correctness mindset
+
+Cache design usable in interviews
+
+🟢 DAY 7
+
+DSA Revision: Heaps
+DSA New: Top-K patterns
+Core Java / LLD: Concurrency basics (locks, immutability)
+HLD: Message queues & async processing
+LLD Night: Rate Limiter (LLD)
+
+🎯 Outcome:
+
+Thread-safety awareness
+
+Can design rate limiter confidently
+
+🟢 DAY 8
+
+DSA Revision: Graph basics
+DSA New: BFS/DFS templates
+Core Java / LLD: Design Patterns (Strategy, Decorator)
+HLD: Microservices basics
+LLD Night: Payment system (composition-heavy)
+
+🎯 Outcome:
+
+Pattern-driven thinking
+
+Excellent answers to “why composition?”
+
+🟢 DAY 9
+
+DSA Revision: Recursion & Backtracking
+DSA New: Subsets / permutations
+Core Java / LLD: Builder & Factory patterns
+HLD: System design – URL shortener
+LLD Night: Expense system (very relevant to you)
+
+🎯 Outcome:
+
+Real-world design articulation improves
+
+Confidence increases sharply
+
+🟢 DAY 10 – 🔥 FINAL CHECKPOINT
+
+DSA Revision: Mixed problems (mock)
+DSA New: Revision only
+Core Java / LLD: Java interview checklist
+HLD: End-to-end mock system design
+LLD Night: Mock LLD interview (self-driven)
+
+📊 FINAL ASSESSMENT – Where You’ll Stand
+After 10 Days:
+Area	Readiness
+DSA	65–70%
+Core Java	80%
+LLD	70%
+HLD	60%
+Interview Readiness Verdict:
+
+✅ Ready for LLD rounds
+⚠️ HLD needs more practice (normal)
+✅ Strong Java + design articulation
+
+👉 You’ll be interviewable, not perfect — and that’s OK.
+
+🎯 What This Means Practically
+
+You can confidently start applying
+
+You won’t freeze in LLD rounds
+
+You can defend design decisions
+
+You sound like a Senior Engineer, not a coder
+
+🔜 After These 10 Days
+
+Next phase (Weeks 3–6):
+
+Full mock interviews
+
+HLD deep dives
+
+Advanced LLD problems
+
+Behavioral STAR answers
