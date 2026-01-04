@@ -1,6 +1,5 @@
 package DynamicProgramming.knapsackProblems;
 
-import java.util.Arrays;
 
 //https://leetcode.com/problems/target-sum/description/
 public class TargetSum {
