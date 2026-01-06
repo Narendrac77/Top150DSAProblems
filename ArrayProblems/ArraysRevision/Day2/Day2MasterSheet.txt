@@ -1,0 +1,146 @@
+Day 2 Plan (Execution Mode)
+🌅 Morning – DSA (Revision | 1.5–2 hrs)
+
+Topic: HashMap Patterns (Revision)
+
+Problems to revise (high-frequency)
+
+Two Sum (you already nailed this)
+
+Valid Anagram
+
+Group Anagrams
+
+Top K Frequent Elements
+
+Longest Consecutive Sequence
+
+🎯 Focus today
+
+When to use HashMap vs Set
+
+Frequency counting patterns
+
+Time/space trade-offs
+
+Explaining why HashMap gives O(1) average
+
+👉 Don’t solve many; solve cleanly and confidently.
+
+🌅 Morning – Core Java / LLD (1 hr)
+Topic: SOLID Principles (SRP + OCP in depth)
+
+Today we focus on only two principles, but deeply:
+
+1️⃣ SRP – Single Responsibility Principle
+
+One reason to change
+
+Class vs method responsibility
+
+Service vs domain object responsibilities
+
+2️⃣ OCP – Open Closed Principle
+
+Open for extension, closed for modification
+
+How polymorphism enables OCP
+
+How if-else violates OCP
+
+🎯 Outcome:
+
+You should be able to say:
+
+“This design violates SRP/OCP because…”
+
+This is LLD interview gold.
+
+🌆 Evening – HLD (1 hr)
+Topic: Load, Latency, Throughput
+
+We’ll cover:
+
+What is latency vs throughput (with examples)
+
+Why improving one can hurt the other
+
+How to talk about scale in interviews
+
+Real-world numbers (rough estimation)
+
+🎯 Outcome:
+
+You won’t give vague answers like “high traffic”
+
+You’ll speak in engineering terms
+
+🌙 Night – LLD / HLD (45 mins)
+Mini LLD Exercise
+
+Design: Simple Notification System (no code)
+
+Focus on:
+
+Entities
+
+Interfaces
+
+Where SRP & OCP apply
+
+Composition usage
+
+🎯 Outcome:
+
+Design clarity
+
+No overengineering
+
+🌙 Night – DSA (New Concept | 1 hr)
+Topic: Prefix Sum (New Pattern)
+
+Problems:
+
+Range Sum Query
+
+Subarray Sum Equals K (very important)
+
+Continuous Subarray Sum
+
+🎯 Outcome:
+
+Recognize prefix sum instantly
+
+Know when sliding window won’t work
+
+🧠 How Day 2 Fits the Big Picture
+
+Day 1 → OOP foundations + DSA confidence
+
+Day 2 → Design principles + deeper reasoning
+
+After today:
+
+You’ll start calling out design smells naturally
+
+Your LLD answers will sound structured and senior
+
+🚀 Let’s Start Now
+
+We’ll begin with:
+
+🟢 DSA Revision – HashMap Pattern
+
+👉 Pick one problem to start:
+
+Valid Anagram
+
+Group Anagrams
+
+Top K Frequent Elements
+
+Reply with:
+
+“Starting with <problem name>”
+
+and we’ll go step by step like yesterday 💪
