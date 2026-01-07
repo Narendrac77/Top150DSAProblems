@@ -1,0 +1,130 @@
+Day 3 Schedule (As per our plan)
+
+Today is a balance day:
+
+Reinforce DSA patterns
+
+Deepen Core Java
+
+Apply LLD thinking
+
+Continue HLD maturity
+
+🌅 Morning – DSA (Revision | 1.5–2 hrs)
+Topic: Sliding Window + Prefix Sum (Revision & Reinforcement)
+
+We’ll not learn new patterns here — only strengthen what you already did.
+
+Problems to cover (in this order)
+
+1️⃣ Longest Substring Without Repeating Characters
+2️⃣ Subarray Sum Equals K (prefix sum recap)
+3️⃣ Subarray Sum Divisible by K (prefix remainder recap)
+
+🎯 Focus today
+
+When sliding window works vs doesn’t
+
+Prefix sum mental model
+
+Explaining why HashMap is needed
+
+📌 You already solved these — today is about verbal confidence.
+
+👉 We’ll start with Problem 1 again but this time:
+
+Explain it as if the interviewer interrupts you.
+
+🌅 Morning – Core Java (1 hr)
+Topic: Java Collections – Deep Dive (Senior Level)
+
+We will cover:
+
+HashMap internals (bucket, treeification)
+
+Why HashMap is O(1) average
+
+Rehashing & load factor
+
+HashMap vs ConcurrentHashMap (high level)
+
+🎯 Outcome:
+You should confidently answer:
+
+“Why did you choose HashMap here?”
+
+🌆 Evening – HLD (1 hr)
+Topic: Designing for Scalability – Caching & Read/Write Trade-offs
+
+We’ll discuss:
+
+When to cache
+
+Cache-aside vs write-through
+
+Cache invalidation (hardest problem 😉)
+
+Read-heavy vs write-heavy systems
+
+🎯 Outcome:
+You’ll stop giving generic answers like “use Redis”
+and start explaining why & where.
+
+🌙 Night – LLD / HLD (45 mins)
+Mini LLD Exercise
+
+Design: Pricing + Discount System
+(based on what we built yesterday)
+
+Focus on:
+
+SRP boundaries
+
+OCP extension (discounts, coupons)
+
+Composition vs inheritance
+
+🎯 Outcome:
+You’ll be able to extend designs under new requirements calmly.
+
+🌙 Night – DSA (New Pattern | 1 hr)
+Topic: Monotonic Stack (New Concept)
+
+Very high ROI for product companies.
+
+Problems:
+
+Next Greater Element
+
+Daily Temperatures (if time permits)
+
+🎯 Outcome:
+
+Recognize monotonic stack instantly
+
+Avoid brute force
+
+🧠 Where You Stand After Day 3
+
+After today:
+
+Prefix Sum & Sliding Window → solid
+
+Core Java Collections → interview ready
+
+LLD → extensible thinking
+
+HLD → scalability clarity
+
+🚀 Let’s Start Now
+
+We’ll begin with:
+
+🟢 Morning DSA – Sliding Window Revision
+
+👉 Start with:
+Longest Substring Without Repeating Characters
+
+Reply with:
+
+“Explain Longest Substring Without Repeating Characters”
