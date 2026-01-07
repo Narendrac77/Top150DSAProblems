@@ -1,0 +1,96 @@
+Prefix Sum Problems – With LeetCode Links (High ROI)
+🟢 Tier 1: CORE Prefix Sum (Must-Do)
+
+These appear very frequently and form the foundation.
+
+1️⃣ Subarray Sum Equals K
+🔗 https://leetcode.com/problems/subarray-sum-equals-k/
+
+Pattern: Prefix sum + frequency map
+Why important: Counting subarrays (baseline problem)
+
+2️⃣ Subarray Sum Divisible by K
+🔗 https://leetcode.com/problems/subarray-sums-divisible-by-k/
+
+Pattern: Prefix sum + remainder frequency
+Why important: Modulo logic + negative numbers
+
+3️⃣ Maximum Size Subarray Sum Equals K
+🔗 https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+
+Pattern: Prefix sum + earliest index
+Why important: Length vs count distinction
+
+🟢 Tier 2: VERY FREQUENT (Next Priority)
+
+These are commonly asked follow-ups.
+
+4️⃣ Continuous Subarray Sum (Multiple of K)
+🔗 https://leetcode.com/problems/continuous-subarray-sum/
+
+Pattern: Prefix sum + remainder + index distance ≥ 2
+Why important: Constraint handling + modulo thinking
+
+5️⃣ Binary Subarrays With Sum
+🔗 https://leetcode.com/problems/binary-subarrays-with-sum/
+
+Pattern: Prefix sum on transformed array
+Why important: Reducing problems to Subarray Sum = K
+
+6️⃣ Number of Subarrays With Odd Sum
+🔗 https://leetcode.com/problems/number-of-subarrays-with-odd-sum/
+
+Pattern: Prefix parity count (even/odd)
+Why important: State reduction & counting logic
+
+7️⃣ Count Number of Nice Subarrays
+🔗 https://leetcode.com/problems/count-number-of-nice-subarrays/
+
+Pattern: Transform → prefix sum
+Why important: Recognizing hidden prefix sum problems
+
+🟢 Tier 3: Prefix Sum + Range / Difference Array
+
+Common in Amazon / Uber / System-style interviews.
+
+8️⃣ Range Sum Query – Immutable
+🔗 https://leetcode.com/problems/range-sum-query-immutable/
+
+Pattern: Prefix sum precomputation
+Why important: Query optimization
+
+9️⃣ Find Pivot Index
+🔗 https://leetcode.com/problems/find-pivot-index/
+
+Pattern: Left sum vs right sum
+Why important: Simple but tests clarity
+
+🔟 Corporate Flight Bookings
+🔗 https://leetcode.com/problems/corporate-flight-bookings/
+
+Pattern: Difference array + prefix sum
+Why important: Range updates efficiently
+
+🟢 Tier 4: Advanced / Strong Signal Problems
+
+These are harder but very impressive if solved.
+
+1️⃣1️⃣ Submatrix Sum Equals Target
+🔗 https://leetcode.com/problems/submatrix-sum-equals-target/
+
+Pattern: 2D prefix sum → multiple 1D problems
+Why important: Advanced prefix sum mastery
+
+1️⃣2️⃣ Make Sum Divisible by P
+🔗 https://leetcode.com/problems/make-sum-divisible-by-p/
+
+Pattern: Prefix sum + modulo + shortest subarray
+Why important: Tricky edge cases, strong signal
+
+🧠 Quick Interview Cheat Sheet
+Problem Type	What to store in map
+Count subarrays	Frequency
+Longest subarray	Earliest index
+Divisible by K	Remainder frequency
+Multiple of K	Remainder + index gap
+Parity problems	Even/Odd count

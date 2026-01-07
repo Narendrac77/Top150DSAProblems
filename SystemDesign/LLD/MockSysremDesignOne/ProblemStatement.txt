@@ -1,0 +1,19 @@
+We are building a system to:
+
+Place an order
+
+Calculate item prices
+
+Apply discounts
+
+Process payment
+
+Eventually, the system should support:
+
+Multiple item types
+
+Multiple discounts
+
+Multiple payment methods
+
+High traffic (future)
